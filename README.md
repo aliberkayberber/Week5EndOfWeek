@@ -16,5 +16,6 @@
 
     ** Oluşturulan araba nesnesini arabalar isimli bir listeye atılır.
 
-    ** Kullanıcıya başka araba oluşturmak isteyip istemediğini sorulur, evet ise program tekrar eder. 
-    ** Cevap hayır ise arabalar listesinin bütün elemanlarının Seri numaralarını ve markalarını yazdırılır.
+    ** Kullanıcıya başka araba oluşturmak isteyip istemediğini sorulur, 
+    ** Evet ise program tekrar eder. 
+    ** Hayır ise arabalar listesinin bütün elemanlarının Seri numaralarını ve markalarını yazdırılır.
