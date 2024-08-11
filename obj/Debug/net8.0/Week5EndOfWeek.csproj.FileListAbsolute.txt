@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/bin/Debug/net8.0/Week5EndOfWeek
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/bin/Debug/net8.0/Week5EndOfWeek.deps.json
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/bin/Debug/net8.0/Week5EndOfWeek.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/bin/Debug/net8.0/Week5EndOfWeek.dll
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/bin/Debug/net8.0/Week5EndOfWeek.pdb
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.dll
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/refint/Week5EndOfWeek.dll
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.pdb
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/Week5EndOfWeek.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/Week5EndOfWeek/obj/Debug/net8.0/ref/Week5EndOfWeek.dll
